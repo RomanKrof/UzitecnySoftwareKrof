@@ -28,19 +28,19 @@ krof.roman.2018@skola.ssps.cz <br/>
     * Windows
 
 * Vlastnosti systému
-  **1. Přidání položky**
+  1. **Přidání položky**
     * Důležitost: 1
     * Vstup: název položky a dílčí informace: místo, čas a datum, kdo se zůčastní, důležitost schůzky, o čem se bude jednat, poznámka
     * Akce: přidání položky s informacemi do seznamu
     * Výstup: přidána nová položka do seznamu
   
-  **2. Úprava položky**
+  2. **Úprava položky**
     * Důležitost: 2
     * Vstup: přepsané informace dané položky
     * Akce: přepsání daných informací položky
     * Výstup: určená položka byla upravena
   
-  **3. Odstranění položky**
+  3. **Odstranění položky**
     * Důležitost: 3
     * Vstup: odstranění určené položky
     * Akce: odstranění určené položky
