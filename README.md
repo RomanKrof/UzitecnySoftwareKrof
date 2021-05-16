@@ -23,9 +23,9 @@ krof.roman.2018@skola.ssps.cz <br/>
 
 * Požadavky na rozhraní
   * Uživatelská rozhraní
-    * WPF
+    * **WPF**
   * Softwarová rozhraní
-    * Windows
+    * **Windows**
 
 * Vlastnosti systému
   1. **Přidání položky**
