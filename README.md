@@ -53,5 +53,3 @@ krof.roman.2018@skola.ssps.cz <br/>
     * Program při správném použití ve více jak v 99% případů správně aktualizuje informace nebo přidá další informace
   * Bezpečnost
     * Systém nebude připojen k internetu, takže Vám přes internet nikdo informace neodcizí (nevztahuje se na malware)
-  * Dokumentace
-    * Uživatelská příručka - základní manuál pro běžného uživatele
