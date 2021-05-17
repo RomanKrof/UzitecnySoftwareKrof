@@ -1,4 +1,4 @@
-# Meet & Save aplikace
+# Save & Meet aplikace
 ## Verze 1
 
 Roman Krof <br/>
