@@ -57,4 +57,4 @@ krof.roman.2018@skola.ssps.cz <br/>
   * Spolehlivost
     * Program při správném použití ve více jak v 99% případů správně aktualizuje informace nebo přidá další informace
   * Bezpečnost
-    * Program pracuje pouzi s daty, která se zadají do programu
+    * Program pracuje pouze s daty, která se zadají do programu
