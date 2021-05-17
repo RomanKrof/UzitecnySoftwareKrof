@@ -19,7 +19,7 @@ krof.roman.2018@skola.ssps.cz <br/>
   * Uživatelské skupiny
     * Uživatelé, kteří nejsou sběhlí v IT, například podnikatelé a sekretáři/ky
   * Omezení návrhu a implementace
-    * Najednou může být uloženo pouze 48525698 schůzek
+    * Najednou může být uloženo pouze 20 schůzek
 * Požadavky na rozhraní
   * Uživatelská rozhraní
     * **WPF**
@@ -43,14 +43,14 @@ krof.roman.2018@skola.ssps.cz <br/>
     * Výstup: určená položka byla odstraněna
   4. **Uložení seznamu**
     * Důležitost: 1
-    * Vstup: 
-    * Akce: 
-    * Výstup: 
+    * Vstup: kliknutí na tlačítko uložit
+    * Akce: list s položkami a informacemi se uloží na zařízení
+    * Výstup: položky s informacemi se uloží
   5. **Výběr soukromých nebo pracovních schůzek**
     * Důležitost: 3
-    * Vstup: 
-    * Akce: 
-    * Výstup: 
+    * Vstup: kliknutí na záložku
+    * Akce: přepnutí listu s položkami
+    * Výstup: přepnutí listu s položkami
 * Nefunkční požadavky
   * Odezva
     * Program bude přepisovat a přidávat informace do 2s
