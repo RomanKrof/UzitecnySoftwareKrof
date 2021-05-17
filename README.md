@@ -1,4 +1,5 @@
 # Užitečný software - Krof
+## Verze 1
 
 Roman Krof <br/>
 krof.roman.2018@skola.ssps.cz <br/>
